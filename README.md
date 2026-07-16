@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Front end web development**
 
-- 🌱 I’m currently learning **Frameworks like tailwind Css,Node.js**
+- 🌱 I’m currently learning **Frameworks like tailwind Css,React.js,Node.js**
 
-- 💬 Ask me about **Bootstrap,jquery,react**
+- 💬 Ask me about **Bootstrap,jquery,React.js**
 
 - 📫 How to reach me **tewahidohaimanot241@gmail.com**
 
