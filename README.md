@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tewahido</h1>
-<h3 align="center">A passionate frontend web developer from Ethiopia</h3>
+<h1 align="center">Hi 👋, I'm Tewahido Haimanot</h1>
+<h3 align="center">A passionate full stack web developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on **Front end web development**
+- 🔭 I’m currently working on **Full stack web development**
 
-- 🌱 I’m currently learning **Frameworks like tailwind Css,React.js,Node.js**
+- 🌱 I’m currently learning **Frameworks like tailwind Css,React.js,Node.js,ASP.NET**
 
-- 💬 Ask me about **Bootstrap,jquery,React.js**
+- 💬 Ask me about **Bootstrap,jquery,React.js,Node.js**
 
 - 📫 How to reach me **tewahidohaimanot241@gmail.com**
 
